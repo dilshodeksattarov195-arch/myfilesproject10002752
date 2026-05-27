@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartpecrypt",
+        "uuid": 25373440,
+        "checksum": "a1f45"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
